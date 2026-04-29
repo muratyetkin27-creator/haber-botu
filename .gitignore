@@ -1,0 +1,4 @@
+.env
+bottur.db
+__pycache__/
+*.pyc
